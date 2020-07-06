@@ -13,7 +13,7 @@
 
 - Scrum Master : Chloé
 - Project Owner : Lucile
-- Lead Back : Aziz
+- Lead Back : Lucile
 - Lead Front : Jean-Christophe
 
 ## MVP 
