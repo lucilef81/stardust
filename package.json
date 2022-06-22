@@ -24,7 +24,7 @@
     "@babel/core": "^7.9.0",
     "@babel/runtime": "^7.9.2",
     "@sendgrid/mail": "^6.5.5",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "bcryptjs": "^2.4.3",
     "concurrently": "^5.1.0",
     "config": "^3.3.0",
